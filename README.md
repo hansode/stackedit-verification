@@ -25,6 +25,8 @@ Connect to the VM.
 $ vagrant ssh
 ```
 
+Connect to StackEdit http://localhost:3000/.
+
 References
 ----------
 
@@ -33,7 +35,7 @@ References
 Contributing
 ------------
 
-1. Fork it ( https://github.com/[my-github-username]/[project-name]/fork )
+1. Fork it ( https://github.com/hansode/stackedit-verification/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
